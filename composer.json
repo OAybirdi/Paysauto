@@ -10,8 +10,5 @@
 			"name":"Muhammed Osman Aybirdi",
 			"email":"webmaster@paysauto.com.tr"
 		}
-	],
-	"require":{
-		"slim/slim": "^3.0"
-	}
+	]
 }
