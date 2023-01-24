@@ -1,5 +1,18 @@
 {
-    "require": {
-        "slim/slim": "^3.0"
-    }
+	"name":"OAybirdi/Paysauto",
+	"type":"project",
+	"description":"Paysauto Payment Gateway API",
+	"keywords":["Papara API","eft api","havale api","Paysauto api"],
+	"homepage":"https://github.com/OAybirdi/Paysauto",
+	"license":"GPL-3.0",
+	"authors":[
+		{
+			"name":"Muhammed Osman Aybirdi",
+			"email":"webmaster@paysauto.com.tr"
+		}
+	],
+	"require":{
+		"slim/slim": "^3.0",
+		"OAybirdi/Paysauto":"v1.1"
+	}
 }
