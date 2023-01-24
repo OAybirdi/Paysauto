@@ -3,7 +3,7 @@
 	"type":"project",
 	"description":"Paysauto Payment Gateway API",
 	"keywords":["Papara API","eft api","havale api","Paysauto api"],
-	"homepage":"https://github.com/oaybirdi/paysauto",
+	"homepage":"https://github.com/OAybirdi/paysauto",
 	"license":"GPL-3.0",
 	"authors":[
 		{
